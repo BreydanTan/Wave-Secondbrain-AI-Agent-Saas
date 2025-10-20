@@ -1,7 +1,7 @@
 # 🌊 Wave AI – Fullstack Second-Brain AI Agent SaaS Platform
 
 > This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [DM to obtain license](https://x.com/techwithemma) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Wave-Secondbrain-AI-Agent-Saas/blob/main/TECHWITHEMMA-LICENSE.md)
+> 👉 [Get a Commercial License](https://techwithemma.gumroad.com/l/gaeytu) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Wave-Secondbrain-AI-Agent-Saas/blob/main/TECHWITHEMMA-LICENSE.md)
 
 ---
 
@@ -57,7 +57,7 @@ Stripe Billing · Analytics · CSV Uploads · Charts · Gemini AI
 ## 📜 License Information
 
 A paid license is required for commercial use.
-👉[DM to obtain Commercial License](https://x.com/techwithemma)
+👉 [Get a Commercial License](https://techwithemma.gumroad.com/l/gaeytu)
 
 For more details about license, please refer to the [TECHWITHEMMA-LICENSE.md](https://github.com/TechWithEmmaYT/Wave-Secondbrain-AI-Agent-Saas/blob/main/TECHWITHEMMA-LICENSE.md).
 
